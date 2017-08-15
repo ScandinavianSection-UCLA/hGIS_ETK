@@ -1,8 +1,9 @@
 # hGIS_ETK
 Historical GIS data and methods for the Evald Tang Kristensen Collection of Danish Folklore
 
-This repository contains data for historical GIS study of the Danish folklore collection of Evald Tang Kristensen (1843-1929).
-The shapefiles are intended for use with ArcGIS. Additional data resources can be found through Digdag and the Danish Cadastral Survey (Kort og Matrikelstyrelsen).
+This repository contains data and tools for historical GIS study of the Danish folklore collection of Evald Tang Kristensen (1843-1929).
+The shapefiles and tools are intended for use with ArcGIS. 
+Additional data resources can be found through Digdag and the Danish Cadastral Survey (Kort og Matrikelstyrelsen).
 
 The data is free to use with attribution to this site, and to the following publications:
 
