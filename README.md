@@ -5,13 +5,16 @@ This repository contains data and tools for historical GIS study of the Danish f
 The shapefiles and tools are intended for use with ArcGIS. 
 
 The three main collections are: 
+
 1 fieldtrip data detailing Tang Kristensen's 267 trips as described in his memoirs, _Minder og Oplevelser_.
+
 2 data and tools related to the places Tang Kristensen visited on his field collecting trips
+
 3 data and tools related to transportation means including train and ferry data
 
 Additional data resources can be found through Digdag and the Danish Cadastral Survey (Kort og Matrikelstyrelsen).
 
-The data is free to use with attribution to this site, and to the following publications:
+The data is free to use with attribution to this site, under a CC-BY SA license, and to the following publications:
 
 Timothy R. Tangherlini. 2013. Danish Folktales, Legends and Other Stories. Seattle: University of Washington Press.
 
