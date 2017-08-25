@@ -3,6 +3,9 @@ Historical GIS data and methods for the Evald Tang Kristensen Collection of Dani
 
 This repository contains data and tools for historical GIS study of the Danish folklore collection of Evald Tang Kristensen (1843-1929).
 The shapefiles and tools are intended for use with ArcGIS. 
+
+The three main collections are: fieldtrip data detailing Tang Kristensen's 267 trips as described in his memoirs, _Minder og Oplevelser_.
+
 Additional data resources can be found through Digdag and the Danish Cadastral Survey (Kort og Matrikelstyrelsen).
 
 The data is free to use with attribution to this site, and to the following publications:
