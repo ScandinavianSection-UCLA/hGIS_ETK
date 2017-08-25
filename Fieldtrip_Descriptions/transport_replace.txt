@@ -1,0 +1,59 @@
+toget, morgentoget, aftentoget, eftermiddagstoget: toget
+jernbanevogn, jernbanen, jernbane: toget
+station, stationen: toget
+fodrejse, fodtur, fods, fodture, fodturen: gik
+dagvogn, dagvognen, postvogn, postvogne, vogne, postvognen: vogn
+færge, færget, færgen, skibet, dampskib, dampskibet: skibet
+huse, huset: hus
+kirken: kirke
+gaarden: gaard
+hjemme, hjemmet: hjem
+gamle, gammelt: gammel
+skolen: skole
+konen: kone
+manden: mand
+besøgte, besøger: besøge
+fortalte, fortæller: fortælle
+synger, sang: synge
+gaar, gik: gaa
+provst, provsten, præsten, præstens, pastor, pastoren: præst
+læreren, lærere, lærerne: lærer
+aftenen: aften
+morgenen: morgen
+vejen: vej
+byen: by
+talte, taler: tale
+folkene: folk
+sommeren: sommer
+vinteren: vinter
+efteraaret: efteraar
+foraaret: foraar
+natten: nat
+middagen: middag
+vejen, landevej, landevejen: vej
+haardt: haard
+østen, østre: øst
+vesten, vestre: vest
+norden, nørre: nord
+syden, sønder: syd
+fødder, fødderne, foden, fods: fod
+marken: mark
+mærkeligt, mærkelige: mærkelig
+pigen, pigene, piger: pige
+drenge, drengen: dreng
+karlene, karlen, ungkarl: karl
+kjører, kjørte: kjøre
+skrev, skrevet, skriver: skrive
+rejste, rejser: rejse
+gav, giver: give
+søgte, søger: søge
+gode: god
+faaet: fik
+dagen, dage: dag
+gode, godt: god
+historier, historien: historie
+sagne, sagnene, sagnet: sagn
+visen, viser: vise
+æventyre, æventyrene, æventyret: æventyr
+hører, hørte: høre
+kommer, kommen, kommet: komme
